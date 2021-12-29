@@ -10,4 +10,5 @@ If for some reason the above method does not work, there is an alternative: clic
 
 # Installation
 Just unpack downloaded archive and execute "Windows Pin.exe". Works on both x86 and x64 Windows systems with Windows 10, 8.x, 7, Vista and XP.
+
 **Warning:** Your antivirus may remove some of the files, so before executing make sure the antivirus didn't delete them.
